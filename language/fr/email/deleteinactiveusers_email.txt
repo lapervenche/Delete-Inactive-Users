@@ -1,5 +1,6 @@
-Subject: Delete inactive account.
+Sujet: Suppression de votre compte inactif.
 
-Hi, {USERNAME} your account registered on {REGISTER_DATE} has been deleted because of inactive use.
+
+Bonjour, {USERNAME} votre compte enregistré le {REGISTER_DATE} a été supprimé en raison d'une utilisation inactive.
 
 {EMAIL_SIG}
