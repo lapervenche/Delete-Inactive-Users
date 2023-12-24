@@ -33,10 +33,10 @@ if (empty($lang) || !is_array($lang))
 // ’ » “ ” …
 
 $lang = array_merge($lang, [
-	'ACP_DELETE_INACTIVE_USERS_TITLE'		=> 'Delete Inactive Users',
-	'ACP_DELETE_INACTIVE_USERS_SETTINGS'	=> 'Settings',
+	'ACP_DELETE_INACTIVE_USERS_TITLE'		=> 'Supprimer les utilisateurs inactifs',
+	'ACP_DELETE_INACTIVE_USERS_SETTINGS'	=> 'Réglages',
 	//Log
-	'LOG_DELETE_INACTIVE_USERS_SAVED'		=> '<strong>Delete Inactive Users settings saved.</strong>',
-	'LOG_DELETE_INACTIVE_USERS'				=> '<strong>Delete %1$d inactive users</strong><br />» %2$s',
-	'LOG_DELETE_INACTIVE_USERS_EMAIL'		=> '<strong>Sent email to inactive users that are deleted</strong><br />» %s',
+	'LOG_DELETE_INACTIVE_USERS_SAVED'		=> '<strong>Supprimer les paramètres inactifs des utilisateurs enregistrés.</strong>',
+	'LOG_DELETE_INACTIVE_USERS'				=> '<strong>Supprimer %1$d utilisateurs inactifs </strong><br />» %2$s',
+	'LOG_DELETE_INACTIVE_USERS_EMAIL'		=> '<strong>Envoyé un e-mail aux utilisateurs inactifs qui sont supprimés</strong><br />» %s',
 ]);
