@@ -52,5 +52,5 @@ $lang = array_merge($lang, [
 	'DELETE_INACTIVE_USERS_INACTIVE_PERIOD_EXPLAIN'		=> 'Définir la période d\'inactivité par les utilisateurs. Date d\'enregistrement et dernière date d\'activité.',
 	'DELETE_INACTIVE_USERS_SAVED'						=> 'Supprimer les paramètres inactifs des utilisateurs enregistrés.',
 	'DELETE_INACTIVE_USERS_GROUP_EXCEPTIONS'			=> 'Exception de groupe(s)',
-	'DELETE_INACTIVE_USERS_GROUP_EXCEPTIONS_EXPLAIN'	=> 'Excluez les groupes ici qui ne seront pas concernés.<br />Sélectionnez plusieurs groupes en maintenant le clic gauche souris appuyé et en cliquant dans lal fenêtre <samp>CTRL</samp> (ou <samp>&#8984;CMD</samp> dans un Mac) and clicking.',
+	'DELETE_INACTIVE_USERS_GROUP_EXCEPTIONS_EXPLAIN'	=> 'Excluez les groupes ici qui ne seront pas concernés.<br />Sélectionnez plusieurs groupes en maintenant le clic gauche souris appuyé et en cliquant dans la fenêtre <samp>CTRL</samp> (ou <samp>&#8984;CMD</samp> dans un Mac) and clicking.',
 ]);
